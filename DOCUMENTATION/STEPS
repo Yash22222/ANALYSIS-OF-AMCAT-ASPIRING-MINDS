@@ -1,0 +1,18 @@
+Step - 1 - Introduction -> Giving a detailed data description and objective
+Step - 2 - Importing the data and display the head, shape and description of the data.
+Step - 3 - Univariate Analysis -> PDF, Histograms, Boxplots, Countplots, etc..
+           Find the outliers in each numerical column
+           Understanding the probability and frequency distribution of each numerical column
+           Understanding the frequency distribution of each categorical Variable/Column
+           Mentioning observations after each plot.
+Step - 4 - Bivariate Analysis
+          Discovering the relationships between numerical columns using Scatter plots, hexbin plots, pair plots, etc..
+          Identifing the patterns between categorical and numerical columns using swarmplot, boxplot, barplot, etc..
+          Identifing relationships between categorical and categorical columns using stacked bar plots.
+          Mentioning observations after each plot.
+Step - 5 - Research Questions
+          Times of India article dated Jan 18, 2019 states that “After doing your Computer Science Engineering if you take up jobs as a Programming Analyst, Software Engineer, Hardware Engineer and 
+          Associate Engineer you can earn up to 2.5-3 lakhs as a fresh graduate.” Testing this claim in our data.
+          Finding there a relationship between gender and specialization? (i.e. Does the preference of Specialisation depend on the Gender?)
+Step - 6 - Conclusion
+Step - 7 - (Bonus) Coming up with some interesting conclusions or research questions (such as step-5).
