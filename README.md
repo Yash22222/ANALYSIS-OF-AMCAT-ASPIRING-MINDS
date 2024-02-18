@@ -28,7 +28,7 @@ To run the analysis:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/engineering-graduates-employment-analysis.git
+   git clone https://github.com/Yash22222/ANALYSIS-OF-AMCAT-ASPIRING-MINDS.git
    ```
 
 2. Install the required dependencies:
@@ -49,7 +49,8 @@ To run the analysis:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
+
 
 ---
 
